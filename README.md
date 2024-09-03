@@ -1,3 +1,2 @@
-# first vala repo
- learning
-author: khushi 
+author:khushi tikoo
+this is for my virtual internship at mainflow
